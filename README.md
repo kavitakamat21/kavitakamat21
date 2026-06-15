@@ -1,4 +1,4 @@
-[ ! [MasterHead] (https://www.primeone.global/wp-content/uploads/2022/02/Data-Analytics-.gif)](https://kavitakamat21.io)
+[ ! [MasterHead] (https://www.primeone.global/wp-content/uploads/2022/02/Data-Analytics-.gif)]
 <h1 align="center">Hi 👋, I'm Kavita Kamat</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Turning Data into Actionable Insights 💡 Passionate about transforming **raw data into meaningful business insights** using **SQL, Python, Power BI, Excel, and Data Visualization**. 🚀 Currently building **end-to-end Data Analytics projects** to solve real-world business problems through dashboards, analytics, and storytelling with data.</h3>
 
