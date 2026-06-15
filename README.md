@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Kavita Kamat</h1>
 <h3 align="center">📊 Aspiring Data Analyst | Turning Data into Actionable Insights & Passionate about transforming **raw data into meaningful business insights** using **SQL, Python, Power BI, Excel, and Data Visualization.  Currently building end-to-end Data Analytics projects to solve real-world business problems through dashboards, analytics, and storytelling with data.</h3>
 
-<img align = "right" alt = "Coding" width = "400"  src ="https://app.lottiefiles.com/animation/ffaf4679-d136-4fc2-8ed3-40ecf5d0d432?channel=web&from=embed&panel=download&source=public-animation">
+<img align = "right" alt = "Coding" width = "400"  src ="https://app.lottiefiles.com/animation/ffaf4679-d136-4fc2-8ed3-40ecf5d0d432">
 
 <p align="left"> <img src="Business Analytics.gif" alt="kavitakamat21" /> </p>
 
