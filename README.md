@@ -10,10 +10,12 @@
 
 ## 🌟 About Me
 
-🔍 I enjoy exploring data to uncover hidden trends and insights
+<ul>
+<b>🔍 I enjoy exploring data to uncover hidden trends and insights <b/>
 📈 Passionate about **Business Intelligence & Dashboard Design**
 📚 Continuously learning and improving my analytical skills
 🎯 Goal: To become a skilled **Data Analyst / Business Intelligence Analyst**
+<ul/>
 
 ---
 
